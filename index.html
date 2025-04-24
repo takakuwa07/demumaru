@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DMS</title>
+    <link rel="stylesheet" href=style.css> <!-- CSSを外部ファイルとして読み込む -->
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="logo">DMS</h1>
+    </header>
+
+    <div class="container">
+      <aside class="sidebar">
+        <button class="nav-button" onclick="location.href='disassemble.html'">金型分解</button>
+        <button class="nav-button">金型組付</button>
+        <button class="nav-button">入子ショット数一覧</button>
+        <button class="nav-button">ダイカストマシン一覧</button>
+      </aside>
+
+      <main class="main-content">
+        <section class="data-section">
+          <h2>金型受付済の一覧</h2>
+          <table class="modern-table">
+            <thead>
+              <tr>
+                <th>受付番号</th>
+                <th>金型名</th>
+                <th>受付日</th>
+                <th>担当者</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>00123</td>
+                <td>KM-001-A</td>
+                <td>2025-04-10</td>
+                <td>田中</td>
+              </tr>
+              <tr>
+                <td>00124</td>
+                <td>KM-002-B</td>
+                <td>2025-04-11</td>
+                <td>佐藤</td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+      
+        <section class="data-section">
+          <h2>設備についている金型の一覧</h2>
+          <table class="modern-table">
+            <thead>
+              <tr>
+                <th>設備名</th>
+                <th>金型名</th>
+                <th>取付日</th>
+                <th>ステータス</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>ダイカスト機 A</td>
+                <td>KM-003-C</td>
+                <td>2025-04-05</td>
+                <td>稼働中</td>
+              </tr>
+              <tr>
+                <td>プレス機 B</td>
+                <td>KM-004-D</td>
+                <td>2025-04-03</td>
+                <td>停止中</td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+      
+        <section class="data-section">
+          <h2>金型の日当たりの生産予測</h2>
+          <table class="modern-table">
+            <thead>
+              <tr>
+                <th>金型名</th>
+                <th>平均ショット数</th>
+                <th>予測生産数</th>
+                <th>備考</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>KM-005-E</td>
+                <td>1,200</td>
+                <td>1,100</td>
+                <td>予定通り</td>
+              </tr>
+              <tr>
+                <td>KM-006-F</td>
+                <td>900</td>
+                <td>850</td>
+                <td>やや遅れ</td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
