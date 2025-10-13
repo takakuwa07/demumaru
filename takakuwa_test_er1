@@ -1815,7 +1815,7 @@
           <mxGeometry x="1800" y="-2740" width="840" height="360" as="geometry" />
         </mxCell>
         <mxCell id="JKqfyM8NXNdA6hTn5lcY-692" value="&lt;font&gt;議論なりそうところ③&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;マスターテーブルは常時書き込む処理は入れないという考え方がある。&lt;br&gt;ショット数など日々変わっていく値は全てトランザクションテーブルに書き込む。&lt;br&gt;&lt;br&gt;そのため、1対1で結合している（主キーがオレンジ色が1対1）&lt;br&gt;&lt;br&gt;1対1は SQLアンチパターン（おすすめしないやり方）と本では記されている。&lt;/div&gt;&lt;div&gt;しかし、あえて採用した。&lt;br&gt;&lt;br&gt;これまでの上郷のシステムは分けていないものも多かった。&lt;/div&gt;&lt;div&gt;&lt;br&gt;今回のプロジェクトでは&lt;br&gt;マスタ（基礎データ）とトランザクション（動的データ）を分けるやり方でやってみたい。&lt;br&gt;後の世代は管理しやすくなると予想。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;labelBorderColor=none;spacingTop=0;spacingLeft=16;spacingBottom=7;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="-2250" width="730" height="320" as="geometry" />
+          <mxGeometry x="1980" y="-2040" width="730" height="320" as="geometry" />
         </mxCell>
         <mxCell id="JKqfyM8NXNdA6hTn5lcY-694" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=light-dark(#000000,#99FF99);" parent="1" vertex="1">
           <mxGeometry x="260" y="-450" width="870" height="320" as="geometry" />
