@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="apjnteUJDhY82uoNcI1E-96" value="m_product" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="apjnteUJDhY82uoNcI1E-96" value="m_product　品名マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="10" y="-2150" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="apjnteUJDhY82uoNcI1E-97" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="apjnteUJDhY82uoNcI1E-96" vertex="1">
@@ -147,7 +147,7 @@
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JKqfyM8NXNdA6hTn5lcY-22" value="m_factory" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="JKqfyM8NXNdA6hTn5lcY-22" value="m_factory　工場マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="20" y="-2700" width="360" height="180" as="geometry" />
         </mxCell>
         <mxCell id="JKqfyM8NXNdA6hTn5lcY-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="JKqfyM8NXNdA6hTn5lcY-22" vertex="1">
@@ -1973,7 +1973,7 @@
         <mxCell id="JKqfyM8NXNdA6hTn5lcY-695" value="&lt;font&gt;議論なりそうところ① の別パターンver.&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="670" y="-120" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A5AAuSPrSJcBg2DoXHqE-18" value="m_die_type" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="A5AAuSPrSJcBg2DoXHqE-18" value="m_die_type　型タイプマスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="850" y="-2260" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="A5AAuSPrSJcBg2DoXHqE-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="A5AAuSPrSJcBg2DoXHqE-18" vertex="1">
@@ -2028,7 +2028,7 @@
         <mxCell id="A5AAuSPrSJcBg2DoXHqE-36" value="&lt;font&gt;議論なりそうところ④&lt;br&gt;GIGAを除けば国内は、複数工場で同一車種は生産していない。&lt;br&gt;そのため、&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;m_car_model テーブルはこの形ではなく&lt;/font&gt;&lt;br&gt;m_factory の後に m_car_modelをつなげるという方法も考えた。&lt;br&gt;&lt;br&gt;しかし海外工場も含めれば同一車種生産はありうる。&lt;br&gt;&lt;br&gt;上郷にも A25A-H/Cという車種、海外でもA25A-H/C を生産している。&lt;br&gt;グローバルで比較できるようにする為にこの形にした。&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;m_product（品名）に続ける形で&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;m_car_model（車種）を&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;階層構造にしたのは&lt;br&gt;A25A-B/C と A25A-H/C は『同じ車種』として比較する事は&lt;br&gt;ないと判断した為。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="375" y="-2995" width="610" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="A5AAuSPrSJcBg2DoXHqE-37" value="m_car_model" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="A5AAuSPrSJcBg2DoXHqE-37" value="m_car_model　車種マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="-2445" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="A5AAuSPrSJcBg2DoXHqE-38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="A5AAuSPrSJcBg2DoXHqE-37" vertex="1">
@@ -2049,20 +2049,20 @@
             <mxRectangle width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A5AAuSPrSJcBg2DoXHqE-41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontColor=#ffffff;strokeColor=light-dark(#000000,#737373);labelBackgroundColor=light-dark(default, #b14e4e);strokeWidth=4;" parent="A5AAuSPrSJcBg2DoXHqE-37" vertex="1">
+        <mxCell id="AL6BsZXWplNPNCTe68u1-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontColor=#ffffff;strokeColor=light-dark(#000000,#737373);labelBackgroundColor=light-dark(default, #b14e4e);strokeWidth=4;" vertex="1" parent="A5AAuSPrSJcBg2DoXHqE-37">
           <mxGeometry y="60" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A5AAuSPrSJcBg2DoXHqE-42" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="A5AAuSPrSJcBg2DoXHqE-41" vertex="1">
+        <mxCell id="AL6BsZXWplNPNCTe68u1-82" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="AL6BsZXWplNPNCTe68u1-81">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A5AAuSPrSJcBg2DoXHqE-43" value="product_id" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;fontColor=#ffffff;strokeColor=#006EAF;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;" parent="A5AAuSPrSJcBg2DoXHqE-41" vertex="1">
+        <mxCell id="AL6BsZXWplNPNCTe68u1-83" value="" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;fontColor=#ffffff;strokeColor=#006EAF;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;" vertex="1" parent="AL6BsZXWplNPNCTe68u1-81">
           <mxGeometry x="30" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AL6BsZXWplNPNCTe68u1-75" value="品名ID" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;fontColor=#ffffff;strokeColor=#006EAF;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;" vertex="1" parent="A5AAuSPrSJcBg2DoXHqE-41">
+        <mxCell id="AL6BsZXWplNPNCTe68u1-84" value="品名ID" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;fontColor=#ffffff;strokeColor=#006EAF;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;" vertex="1" parent="AL6BsZXWplNPNCTe68u1-81">
           <mxGeometry x="150" width="70" height="30" as="geometry">
             <mxRectangle width="70" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2085,10 +2085,10 @@
             <mxRectangle width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A5AAuSPrSJcBg2DoXHqE-53" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="apjnteUJDhY82uoNcI1E-97" target="A5AAuSPrSJcBg2DoXHqE-41" edge="1">
+        <mxCell id="A5AAuSPrSJcBg2DoXHqE-53" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="apjnteUJDhY82uoNcI1E-97" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="410" y="-2080" as="sourcePoint" />
-            <mxPoint x="630" y="-2160" as="targetPoint" />
+            <mxPoint x="450" y="-2370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A5AAuSPrSJcBg2DoXHqE-57" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="A5AAuSPrSJcBg2DoXHqE-38" target="JKqfyM8NXNdA6hTn5lcY-55" edge="1">
