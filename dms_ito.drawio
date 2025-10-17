@@ -5846,7 +5846,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-758" value="m_die_attachment　取り付け部品マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="-3750" y="-2760" width="350" height="150" as="geometry" />
+          <mxGeometry x="-3750" y="-3045" width="350" height="150" as="geometry" />
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-759" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="68hDNBOxD3VT8UiuB3Kc-758">
           <mxGeometry y="30" width="350" height="30" as="geometry" />
@@ -6095,7 +6095,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-807" value="&lt;span style=&quot;color: rgb(255, 255, 255); text-align: left; text-wrap-mode: wrap; text-decoration-line: underline;&quot;&gt;m_attachment_number&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="-2390" y="-2700" width="310" height="120" as="geometry" />
+          <mxGeometry x="-2380" y="-2940" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-808" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="68hDNBOxD3VT8UiuB3Kc-807">
           <mxGeometry y="30" width="310" height="30" as="geometry" />
@@ -6162,7 +6162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-821" value="m_car_die_attachment　車種取り付け部品マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="-3200" y="-2820" width="310" height="120" as="geometry" />
+          <mxGeometry x="-3210" y="-3045" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-822" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="68hDNBOxD3VT8UiuB3Kc-821">
           <mxGeometry y="30" width="310" height="30" as="geometry" />
