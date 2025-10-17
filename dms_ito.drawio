@@ -1193,7 +1193,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W9bMmQGNt1usOigdgkvB-167" value="t_mold_lastest_combination(最新金型組み合わせ)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="360" y="-4205" width="480" height="130" as="geometry">
+          <mxGeometry x="330" y="-4135" width="480" height="130" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
