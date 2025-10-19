@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="10145" dy="7790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="13232" dy="9464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2317,7 +2317,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-1" value="t_factory_master(工場マスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-4660" y="2345" width="450" height="160" as="geometry">
+          <mxGeometry x="-4830" y="2330" width="450" height="160" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2434,7 +2434,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-26" value="t_product_category_master(品名マスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-4090" y="2345" width="450" height="190" as="geometry">
+          <mxGeometry x="-4320" y="2295" width="450" height="190" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2579,7 +2579,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-57" value="t_car_model_master(車種マスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-3430" y="2525" width="450" height="190" as="geometry">
+          <mxGeometry x="-3720" y="2330" width="450" height="190" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2724,7 +2724,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-88" value="t_mold_type_master(型種マスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-2860" y="2545" width="450" height="190" as="geometry">
+          <mxGeometry x="-3160" y="2405" width="450" height="190" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2869,7 +2869,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-119" value="t_mold_assembly_master(金型アッシーマスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-2250" y="2865" width="450" height="190" as="geometry">
+          <mxGeometry x="-2360" y="2850" width="450" height="190" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3014,7 +3014,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-150" value="t_mold_number_master(型番マスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-2200" y="2415" width="440" height="220" as="geometry">
+          <mxGeometry x="-2360" y="2340" width="440" height="220" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3187,7 +3187,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-187" value="t_mold_section_master(金型区分マスター)" style="shape=table;startSize=34;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1580" y="2835" width="450" height="220" as="geometry">
+          <mxGeometry x="-1760" y="2835" width="450" height="220" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3360,7 +3360,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-224" value="t_part_section_master(部品区分マスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1010" y="2850" width="450" height="190" as="geometry">
+          <mxGeometry x="-880" y="2850" width="450" height="190" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3505,7 +3505,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-255" value="t_mold_lastest_combination(最新金型組み合わせ)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="740" y="2910" width="480" height="130" as="geometry">
+          <mxGeometry x="1255" y="2810" width="480" height="130" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3594,7 +3594,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-274" value="t_part_number_master(部品番号マスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="140" y="2995" width="450" height="190" as="geometry">
+          <mxGeometry x="550" y="2900" width="450" height="190" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3739,7 +3739,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-305" value="t_part_master(部品マスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-410" y="3165" width="450" height="250" as="geometry">
+          <mxGeometry x="-100" y="3270" width="450" height="250" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3940,7 +3940,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-348" value="t_part_detail_master(部品詳細マスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="170" y="3285" width="450" height="250" as="geometry">
+          <mxGeometry x="530" y="3270" width="450" height="250" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4141,7 +4141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-391" value="t_mold_control_number(管理番号)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-1540" y="1955" width="490" height="250" as="geometry">
+          <mxGeometry x="-1760" y="1940" width="490" height="250" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4342,7 +4342,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-434" value="t_mold_reception_detail(受付詳細)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-750" y="2325" width="480" height="190" as="geometry">
+          <mxGeometry x="-880" y="2315" width="480" height="190" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4487,7 +4487,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-465" value="t_mold_completion_detail(完了詳細)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-740" y="2145" width="480" height="130" as="geometry">
+          <mxGeometry x="-880" y="2090" width="480" height="130" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4576,7 +4576,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-484" value="t_mold_combination_history(金型組み合わせ履歴)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-720" y="1950" width="480" height="100" as="geometry">
+          <mxGeometry x="-880" y="1910" width="480" height="100" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4637,7 +4637,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-497" value="t_maintenance_type_master(整備区分マスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-3420" y="2275" width="490" height="130" as="geometry">
+          <mxGeometry x="-3720" y="2015" width="490" height="130" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4726,7 +4726,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-516" value="t_maintenance_cycle_master(整備サイクルマスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-2840" y="2200" width="490" height="130" as="geometry">
+          <mxGeometry x="-3165" y="2040" width="490" height="130" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4815,10 +4815,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-535" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;*注記&lt;/h1&gt;&lt;p&gt;・*は空白を許容する&lt;/p&gt;&lt;p&gt;・&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;*maintenance_cycle_id&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;maintenance_typeが定量以外はレコードなし&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;　（外部キー制約をNULL許容にする）&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2810" y="2050" width="520" height="120" as="geometry" />
+          <mxGeometry x="-3120" y="1860" width="520" height="120" as="geometry" />
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-536" value="t_interval_shot_count(区間ショット数)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-1540" y="2295" width="490" height="130" as="geometry">
+          <mxGeometry x="-1760" y="2260" width="490" height="130" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4907,10 +4907,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-555" value="※金型アッシー、部品構造マスターに値がない場合、型種マスターと繋がるように&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;mold_type_idでリレーション&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1570" y="2774" width="350" height="30" as="geometry" />
+          <mxGeometry x="-1745" y="2770" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-556" value="t_part_specification_master(部品仕様マスター)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-3410" y="3195" width="450" height="190" as="geometry">
+          <mxGeometry x="-3720" y="2825" width="450" height="190" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5055,7 +5055,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-587" value="t_device_registration(端末登録)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-4570" y="2635" width="450" height="160" as="geometry">
+          <mxGeometry x="-4700" y="2910" width="450" height="160" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5172,10 +5172,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-612" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;GIGAのみ使用。上郷は使う予定なし&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=6;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-2250" y="2825" width="290" height="30" as="geometry" />
+          <mxGeometry x="-2360" y="2820" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="68hDNBOxD3VT8UiuB3Kc-613" value="t_part_number_combination(最新部品番号組み合わせ)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="780" y="3215" width="450" height="160" as="geometry">
+          <mxGeometry x="1270" y="3090" width="450" height="160" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5291,7 +5291,7 @@
             <mxRectangle width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-638" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=none;startArrow=classic;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;startFill=1;endFill=0;" parent="1" target="68hDNBOxD3VT8UiuB3Kc-504" edge="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-638" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=none;startArrow=classic;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;startFill=1;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="68hDNBOxD3VT8UiuB3Kc-504" edge="1" source="68hDNBOxD3VT8UiuB3Kc-27">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-3640" y="2390" as="sourcePoint" />
             <mxPoint x="-2240" y="2585" as="targetPoint" />
