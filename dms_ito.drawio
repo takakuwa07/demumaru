@@ -5961,12 +5961,12 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-781" value="die_number_id" style="shape=partialRectangle;connectable=0;fillColor=#fa6800;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-779" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-781" value="die_number_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-779" vertex="1">
           <mxGeometry x="30" width="110" height="30" as="geometry">
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-782" value="型番ID" style="shape=partialRectangle;connectable=0;fillColor=#fa6800;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-779" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-782" value="型番ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-779" vertex="1">
           <mxGeometry x="140" width="80" height="30" as="geometry">
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -6105,12 +6105,12 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-810" value="attachment_number_id" style="shape=partialRectangle;connectable=0;fillColor=#fa6800;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-808" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-810" value="attachment_number_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-808" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-811" value="取り付け部品番号ID" style="shape=partialRectangle;connectable=0;fillColor=#fa6800;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-808" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-811" value="取り付け部品番号ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-808" vertex="1">
           <mxGeometry x="180" width="130" height="30" as="geometry">
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -6229,12 +6229,12 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-837" value="die_number_id" style="shape=partialRectangle;connectable=0;fillColor=#fa6800;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-835" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-837" value="die_number_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-835" vertex="1">
           <mxGeometry x="30" width="170" height="30" as="geometry">
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-838" value="型番ID" style="shape=partialRectangle;connectable=0;fillColor=#fa6800;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-835" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-838" value="型番ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-835" vertex="1">
           <mxGeometry x="200" width="140" height="30" as="geometry">
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -6328,12 +6328,12 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-859" value="attachment_number_id" style="shape=partialRectangle;connectable=0;fillColor=#fa6800;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-857" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-859" value="attachment_number_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-857" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-860" value="取り付け部品番号ID" style="shape=partialRectangle;connectable=0;fillColor=#fa6800;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-857" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-860" value="取り付け部品番号ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#C73500;" parent="68hDNBOxD3VT8UiuB3Kc-857" vertex="1">
           <mxGeometry x="180" width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
