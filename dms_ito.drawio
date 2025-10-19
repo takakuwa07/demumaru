@@ -11882,43 +11882,20 @@
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-746" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontColor=#ffffff;strokeColor=#A50040;labelBackgroundColor=light-dark(default, #b14e4e);" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-735">
-          <mxGeometry y="90" width="470" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-747" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-746">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-748" value="repair_category_id" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-746">
-          <mxGeometry x="30" width="180" height="30" as="geometry">
-            <mxRectangle width="180" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-749" value="修理区分ID" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-746">
-          <mxGeometry x="210" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-750" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;INT&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;fontColor=#ffffff;strokeColor=#006EAF;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-746">
-          <mxGeometry x="360" width="110" height="30" as="geometry">
-            <mxRectangle width="110" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-751" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontColor=#ffffff;strokeColor=#A50040;labelBackgroundColor=light-dark(default, #b14e4e);" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-735">
-          <mxGeometry y="120" width="470" height="30" as="geometry" />
+          <mxGeometry y="90" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-752" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-751">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-753" value="factory_repair_category" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-751">
+        <mxCell id="j26_b59Q4vZ3DwpqLW4g-753" value="repair_category" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-751">
           <mxGeometry x="30" width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-754" value="工場ごとの修理区分" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-751">
+        <mxCell id="j26_b59Q4vZ3DwpqLW4g-754" value="修理区分" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-751">
           <mxGeometry x="210" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -11928,65 +11905,33 @@
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="j26_b59Q4vZ3DwpqLW4g-799" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontColor=#ffffff;strokeColor=#A50040;labelBackgroundColor=light-dark(default, #b14e4e);" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-735">
+          <mxGeometry y="120" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j26_b59Q4vZ3DwpqLW4g-800" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-799">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j26_b59Q4vZ3DwpqLW4g-801" value="factory_repair_category" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-799">
+          <mxGeometry x="30" width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j26_b59Q4vZ3DwpqLW4g-802" value="工場ごとの修理区分" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-799">
+          <mxGeometry x="210" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j26_b59Q4vZ3DwpqLW4g-803" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;NVARCHAR(20)&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;fontColor=#ffffff;strokeColor=#006EAF;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-799">
+          <mxGeometry x="360" width="110" height="30" as="geometry">
+            <mxRectangle width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-756" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;startArrow=ERone;startFill=0;" edge="1" parent="1" source="j26_b59Q4vZ3DwpqLW4g-736" target="j26_b59Q4vZ3DwpqLW4g-635">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-2510" y="-3174" as="sourcePoint" />
             <mxPoint x="-2376" y="-3220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-757" value="m_repair_category 修理区分マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3410" y="-3270" width="450" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-758" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-757">
-          <mxGeometry y="30" width="450" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-759" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-758">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-760" value="repair_category_id" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-758">
-          <mxGeometry x="30" width="170" height="30" as="geometry">
-            <mxRectangle width="170" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-761" value="修理区分ID" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-758">
-          <mxGeometry x="200" width="130" height="30" as="geometry">
-            <mxRectangle width="130" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-762" value="INT" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-758">
-          <mxGeometry x="330" width="120" height="30" as="geometry">
-            <mxRectangle width="120" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-763" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=light-dark(default, #b14e4e);fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-757">
-          <mxGeometry y="60" width="450" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-764" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-763">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-765" value="repair_category" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-763">
-          <mxGeometry x="30" width="170" height="30" as="geometry">
-            <mxRectangle width="170" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-766" value="修理区分" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-763">
-          <mxGeometry x="200" width="130" height="30" as="geometry">
-            <mxRectangle width="130" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-767" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;NVARCHAR(20)&lt;/span&gt;" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;html=1;fillColor=none;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-763">
-          <mxGeometry x="330" width="120" height="30" as="geometry">
-            <mxRectangle width="120" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-768" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;startArrow=ERone;startFill=0;" edge="1" parent="1" source="j26_b59Q4vZ3DwpqLW4g-758" target="j26_b59Q4vZ3DwpqLW4g-746">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-3020" y="-3440" as="sourcePoint" />
-            <mxPoint x="-2950" y="-3170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-769" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERone;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;ignoreEdge=0;startFill=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j26_b59Q4vZ3DwpqLW4g-623" target="j26_b59Q4vZ3DwpqLW4g-690">
