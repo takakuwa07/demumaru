@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="7166" dy="6175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="6790" dy="5970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10678,12 +10678,12 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-311" value="repair_category" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-309">
+        <mxCell id="j26_b59Q4vZ3DwpqLW4g-311" value="core_repair_category" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#a20025;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-309">
           <mxGeometry x="30" width="150.00000000000045" height="30" as="geometry">
             <mxRectangle width="150.00000000000045" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-312" value="修理区分" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-309">
+        <mxCell id="j26_b59Q4vZ3DwpqLW4g-312" value="コア修理区分" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#a20025;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-309">
           <mxGeometry x="180.00000000000045" width="90" height="30" as="geometry">
             <mxRectangle width="90" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -10706,7 +10706,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-317" value="all_shot" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-315">
+        <mxCell id="j26_b59Q4vZ3DwpqLW4g-317" value="core_total_shot_count" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#a20025;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-315">
           <mxGeometry x="30" width="150.00000000000045" height="30" as="geometry">
             <mxRectangle width="150.00000000000045" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -10721,7 +10721,7 @@
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-320" value="累計ショット（カラム名は現在仮）" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-315">
+        <mxCell id="j26_b59Q4vZ3DwpqLW4g-320" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-315">
           <mxGeometry x="380.00000000000045" width="819.9999999999995" height="30" as="geometry">
             <mxRectangle width="819.9999999999995" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -10749,7 +10749,7 @@
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j26_b59Q4vZ3DwpqLW4g-326" value="区間ショット（カラム名は現在仮）" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-321">
+        <mxCell id="j26_b59Q4vZ3DwpqLW4g-326" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-321">
           <mxGeometry x="380.00000000000045" width="819.9999999999995" height="30" as="geometry">
             <mxRectangle width="819.9999999999995" height="30" as="alternateBounds" />
           </mxGeometry>
