@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="8430" dy="6860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="10880" dy="8189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12065,7 +12065,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-804" value="t_die_lastest_combination(最新金型組み合わせ)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-2400" y="-4300" width="335" height="100" as="geometry">
+          <mxGeometry x="-2400" y="-3850" width="335" height="100" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -12127,8 +12127,8 @@
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-823" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;endFill=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="j26_b59Q4vZ3DwpqLW4g-913" target="j26_b59Q4vZ3DwpqLW4g-805">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-2154" y="-4344" as="sourcePoint" />
-            <mxPoint x="-1950" y="-4500" as="targetPoint" />
+            <mxPoint x="-2154" y="-3894" as="sourcePoint" />
+            <mxPoint x="-1950" y="-4050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-824" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
@@ -12138,10 +12138,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-825" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;河崎さんオリジナル から高桑改 + 修理区分テーブルを一つにした&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2350" y="-4820" width="790" height="50" as="geometry" />
+          <mxGeometry x="-2350" y="-4370" width="790" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-826" value="t101_die_reception_log　金型受付履歴" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;linecap=round;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2400" y="-4750" width="1050" height="220" as="geometry">
+          <mxGeometry x="-2400" y="-4300" width="1050" height="220" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -12314,7 +12314,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-863" value="t102_core_reception_log　コア受付履歴" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1200" y="-4760" width="1030.0000000000005" height="279.99999999999955" as="geometry">
+          <mxGeometry x="-1200" y="-4100" width="1030.0000000000005" height="279.99999999999955" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -12543,7 +12543,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-912" value="m_die_number 型番マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2940" y="-4470" width="335" height="180" as="geometry" />
+          <mxGeometry x="-2940" y="-4020" width="335" height="180" as="geometry" />
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-913" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-912">
           <mxGeometry y="30" width="335" height="30" as="geometry" />
@@ -12662,12 +12662,12 @@
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-938" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="j26_b59Q4vZ3DwpqLW4g-912" target="j26_b59Q4vZ3DwpqLW4g-851">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-2530" y="-4400" as="sourcePoint" />
-            <mxPoint x="-2450" y="-4530" as="targetPoint" />
+            <mxPoint x="-2530" y="-3950" as="sourcePoint" />
+            <mxPoint x="-2450" y="-4080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-939" value="m_factory_repair_category 工場ごとの修理区分マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2940" y="-4750" width="470" height="150" as="geometry" />
+          <mxGeometry x="-2940" y="-4300" width="470" height="150" as="geometry" />
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-940" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-939">
           <mxGeometry y="30" width="470" height="30" as="geometry" />
@@ -12763,18 +12763,18 @@
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-960" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;startArrow=ERone;startFill=0;" edge="1" parent="1" source="j26_b59Q4vZ3DwpqLW4g-940" target="j26_b59Q4vZ3DwpqLW4g-839">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-2550" y="-4654" as="sourcePoint" />
-            <mxPoint x="-2416" y="-4700" as="targetPoint" />
+            <mxPoint x="-2550" y="-4204" as="sourcePoint" />
+            <mxPoint x="-2416" y="-4250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-961" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERone;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;ignoreEdge=0;startFill=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j26_b59Q4vZ3DwpqLW4g-827" target="j26_b59Q4vZ3DwpqLW4g-894">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-1385" y="-4610" as="sourcePoint" />
-            <mxPoint x="-1285" y="-4710" as="targetPoint" />
+            <mxPoint x="-1385" y="-4160" as="sourcePoint" />
+            <mxPoint x="-1285" y="-4260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-962" value="m_core_number_id コア番号マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2940" y="-3610" width="350" height="180" as="geometry" />
+          <mxGeometry x="-2940" y="-3640" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-963" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="j26_b59Q4vZ3DwpqLW4g-962">
           <mxGeometry y="30" width="350" height="30" as="geometry" />
@@ -12893,16 +12893,16 @@
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-988" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;" edge="1" parent="1" source="j26_b59Q4vZ3DwpqLW4g-963" target="j26_b59Q4vZ3DwpqLW4g-900">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-1420" y="-4364" as="sourcePoint" />
-            <mxPoint x="-1216" y="-4520" as="targetPoint" />
+            <mxPoint x="-1420" y="-3914" as="sourcePoint" />
+            <mxPoint x="-1216" y="-4070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j26_b59Q4vZ3DwpqLW4g-989" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;endFill=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERone;startFill=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j26_b59Q4vZ3DwpqLW4g-963" target="j26_b59Q4vZ3DwpqLW4g-811">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-2290" y="-3960" as="sourcePoint" />
-            <mxPoint x="-2520" y="-3905" as="targetPoint" />
+            <mxPoint x="-2290" y="-3510" as="sourcePoint" />
+            <mxPoint x="-2520" y="-3455" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2090" y="-3905" />
+              <mxPoint x="-2090" y="-3455" />
             </Array>
           </mxGeometry>
         </mxCell>
