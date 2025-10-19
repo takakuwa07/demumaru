@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="7744" dy="6488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="9116" dy="7232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5892,12 +5892,12 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-769" value="die_attachment_set_id" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);strokeColor=#006EAF;" parent="68hDNBOxD3VT8UiuB3Kc-767" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-769" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;die_attachment_set_id&lt;/font&gt;" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);strokeColor=#006EAF;" parent="68hDNBOxD3VT8UiuB3Kc-767" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-770" value="取り付け部品部品セットID" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);strokeColor=#006EAF;" parent="68hDNBOxD3VT8UiuB3Kc-767" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-770" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;取り付け部品部品セットID&lt;/font&gt;" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);strokeColor=#006EAF;" parent="68hDNBOxD3VT8UiuB3Kc-767" vertex="1">
           <mxGeometry x="180" width="170" height="30" as="geometry">
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -5910,7 +5910,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-773" value="&lt;span style=&quot;&quot;&gt;die_attachment_name&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);strokeColor=#006EAF;" parent="68hDNBOxD3VT8UiuB3Kc-771" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-773" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(213, 232, 212));&quot;&gt;die_attachment_name&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);strokeColor=#006EAF;" parent="68hDNBOxD3VT8UiuB3Kc-771" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -6208,12 +6208,12 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-832" value="die_attachment_id" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);strokeColor=#006EAF;" parent="68hDNBOxD3VT8UiuB3Kc-830" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-832" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;die_attachment_id&lt;/font&gt;" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);strokeColor=#006EAF;" parent="68hDNBOxD3VT8UiuB3Kc-830" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68hDNBOxD3VT8UiuB3Kc-833" value="取り付け部品ID" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);strokeColor=#006EAF;" parent="68hDNBOxD3VT8UiuB3Kc-830" vertex="1">
+        <mxCell id="68hDNBOxD3VT8UiuB3Kc-833" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;取り付け部品ID&lt;/font&gt;" style="shape=partialRectangle;connectable=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);strokeColor=#006EAF;" parent="68hDNBOxD3VT8UiuB3Kc-830" vertex="1">
           <mxGeometry x="180" width="130" height="30" as="geometry">
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
