@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="11880" dy="10189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="7000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="10116" dy="9232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="7000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14133,7 +14133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mNqd8RfFSZ_vfq1yqzP3-1" value="t_die_combination_log 金型組み合わせ履歴" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="-5810" width="400.0000000000009" height="160" as="geometry">
+          <mxGeometry x="-1950" y="-5830" width="400.0000000000009" height="160" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -14440,7 +14440,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mNqd8RfFSZ_vfq1yqzP3-53" value="core_reception_log　コア受付履歴" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1470" y="-5150" width="730.0000000000005" height="279.99999999999955" as="geometry">
+          <mxGeometry x="-1190" y="-5860" width="730.0000000000005" height="279.99999999999955" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -14669,7 +14669,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mNqd8RfFSZ_vfq1yqzP3-102" value="m_die_number 型番マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3950" y="-5500" width="335" height="180" as="geometry" />
+          <mxGeometry x="-3950" y="-5660" width="335" height="180" as="geometry" />
         </mxCell>
         <mxCell id="mNqd8RfFSZ_vfq1yqzP3-103" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="mNqd8RfFSZ_vfq1yqzP3-102">
           <mxGeometry y="30" width="335" height="30" as="geometry" />
@@ -14877,7 +14877,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mNqd8RfFSZ_vfq1yqzP3-152" value="m_core_number_id コア番号マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3950" y="-5040" width="350" height="210" as="geometry" />
+          <mxGeometry x="-3950" y="-5270" width="350" height="210" as="geometry" />
         </mxCell>
         <mxCell id="mNqd8RfFSZ_vfq1yqzP3-153" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="mNqd8RfFSZ_vfq1yqzP3-152">
           <mxGeometry y="30" width="350" height="30" as="geometry" />
@@ -15033,7 +15033,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mNqd8RfFSZ_vfq1yqzP3-180" value="t_core_status コア状況" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3415" y="-4940" width="380" height="240" as="geometry" />
+          <mxGeometry x="-3415" y="-5230" width="380" height="240" as="geometry" />
         </mxCell>
         <mxCell id="mNqd8RfFSZ_vfq1yqzP3-181" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="mNqd8RfFSZ_vfq1yqzP3-180">
           <mxGeometry y="30" width="380" height="30" as="geometry" />
@@ -15206,7 +15206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mNqd8RfFSZ_vfq1yqzP3-197" value="t_die_status 金型状況" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3410" y="-5710" width="380" height="120" as="geometry" />
+          <mxGeometry x="-3410" y="-5880" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mNqd8RfFSZ_vfq1yqzP3-198" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="mNqd8RfFSZ_vfq1yqzP3-197">
           <mxGeometry y="30" width="380" height="30" as="geometry" />
@@ -15290,7 +15290,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mNqd8RfFSZ_vfq1yqzP3-210" value="t_die_completion_log 金型完了履歴" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-2210" y="-5990" width="490" height="130" as="geometry">
+          <mxGeometry x="-2560" y="-5920" width="490" height="130" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -15385,7 +15385,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mNqd8RfFSZ_vfq1yqzP3-290" value="t_die_reception_log_kamigo 金型受付履歴_上郷" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;linecap=round;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2210" y="-6170" width="430" height="100" as="geometry">
+          <mxGeometry x="-1340" y="-6250" width="430" height="100" as="geometry">
             <mxRectangle x="-260" y="-170" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
