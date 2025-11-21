@@ -17786,7 +17786,7 @@
             <mxPoint x="7190" y="3420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PviwDKVIkk7DQfP7kidW-346" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" value="    t_maintenance_part_reception_log(整備部品完了履歴)" vertex="1">
+        <mxCell id="PviwDKVIkk7DQfP7kidW-346" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" value="    t_maintenance_part_completion_log(整備部品完了履歴)" vertex="1">
           <mxGeometry height="160" width="660" x="8090" y="3605" as="geometry">
             <mxRectangle height="30" width="130" x="-260" y="-170" as="alternateBounds" />
           </mxGeometry>
