@@ -18231,7 +18231,7 @@
               <mxPoint x="7980" y="3140" />
             </Array>
             <mxPoint x="7420" y="2930" as="sourcePoint" />
-            <mxPoint x="7040" y="3050" as="targetPoint" />
+            <mxPoint x="7030" y="3190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K2yUA2d8jw9vR51y45SV-115" edge="1" parent="1" source="K2yUA2d8jw9vR51y45SV-71" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERone;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;startFill=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="K2yUA2d8jw9vR51y45SV-102" value="">
@@ -18251,6 +18251,9 @@
             <mxPoint x="5410" y="2710" as="sourcePoint" />
             <mxPoint x="5710" y="2740" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K2yUA2d8jw9vR51y45SV-125" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;rounded=0;" value="251124 高桑&lt;br&gt;&lt;br&gt;けっこう前の会議で、修理ランクは工場ごとで呼び方違うので&lt;br&gt;まとめる必要がある。&lt;br&gt;&lt;br&gt;それが m_repair_rank&amp;nbsp;&lt;br&gt;&lt;br&gt;『情報としてまとめる必要』がある、と思っています。&lt;br&gt;&lt;br&gt;ただし、画面表示は工場ごとで違っていいと思っています。&lt;br&gt;その為に&lt;br&gt;m_repair_rank_alias を用意した。&lt;br&gt;&lt;br&gt;二つテーブルが必要という意味です。&lt;br&gt;&lt;br&gt;例えば、『情報としてまとめる必要』という事に必要性感じない時は&lt;br&gt;一つのテーブルにすることもできます" vertex="1">
+          <mxGeometry height="280" width="540" x="7190" y="2510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
