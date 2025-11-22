@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.0">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="8421" dy="8313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="7000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="7715" dy="7930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="7000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16948,7 +16948,7 @@
             <mxPoint x="4004" y="3895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PviwDKVIkk7DQfP7kidW-48" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="m_die_maintenance_cycle(金型整備区間マスタ)" vertex="1">
+        <mxCell id="PviwDKVIkk7DQfP7kidW-48" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="m_die_maintenance_cycle(金型整備サイクルマスタ)" vertex="1">
           <mxGeometry height="160" width="409.9999999999982" x="4880" y="3090" as="geometry">
             <mxRectangle height="30" width="130" x="-260" y="-170" as="alternateBounds" />
           </mxGeometry>
@@ -17022,7 +17022,7 @@
             <mxRectangle height="30" width="169.99999999999818" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PviwDKVIkk7DQfP7kidW-201" parent="PviwDKVIkk7DQfP7kidW-198" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="整備区間ID" vertex="1">
+        <mxCell id="PviwDKVIkk7DQfP7kidW-201" parent="PviwDKVIkk7DQfP7kidW-198" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="整備サイクルID" vertex="1">
           <mxGeometry height="30" width="140.00000000000182" x="199.99999999999818" as="geometry">
             <mxRectangle height="30" width="140.00000000000182" as="alternateBounds" />
           </mxGeometry>
@@ -17236,7 +17236,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PviwDKVIkk7DQfP7kidW-216" parent="PviwDKVIkk7DQfP7kidW-214" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="die_cycle_shot" vertex="1">
+        <mxCell id="PviwDKVIkk7DQfP7kidW-216" parent="PviwDKVIkk7DQfP7kidW-214" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="interval_shot_count" vertex="1">
           <mxGeometry height="30" width="160" x="30" as="geometry">
             <mxRectangle height="30" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -17251,7 +17251,7 @@
             <mxRectangle height="30" width="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PviwDKVIkk7DQfP7kidW-219" parent="PviwDKVIkk7DQfP7kidW-214" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="251016001" vertex="1">
+        <mxCell id="PviwDKVIkk7DQfP7kidW-219" parent="PviwDKVIkk7DQfP7kidW-214" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="" vertex="1">
           <mxGeometry height="30" width="130" x="390" as="geometry">
             <mxRectangle height="30" width="130" as="alternateBounds" />
           </mxGeometry>
