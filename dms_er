@@ -18035,8 +18035,8 @@
         <mxCell id="PviwDKVIkk7DQfP7kidW-411" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="↓ 使わなくなった。会議で要相談" vertex="1">
           <mxGeometry height="30" width="260" x="8550" y="3905" as="geometry" />
         </mxCell>
-        <mxCell id="PviwDKVIkk7DQfP7kidW-412" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;rounded=0;" value="＜悩んだこと＞ 251121 高桑&lt;br&gt;&lt;br&gt;&lt;div&gt;上郷DMSも衣浦DMSも、&lt;br&gt;金型の受付/完了 履歴テーブルは単独で存在している。&lt;br&gt;しかし、入子組合わせ履歴は受付も完了も一つのテーブルに集約されている。&lt;br&gt;&lt;br&gt;このような形だと、ER図が書けない。&lt;br&gt;リレーションをつなげられなかった。&lt;br&gt;&lt;br&gt;①その為、この形になりました。&lt;br&gt;&lt;br&gt;もう一つ、別の案はあります。&lt;br&gt;入子組合わせ履歴テーブルを、従来DMSのように受付/完了とも、一つに集約したい時は&lt;br&gt;②金型の受付/履歴も一つのテーブルに集約するという方法&lt;br&gt;&lt;br&gt;①か②、どちらがいいか会議で会話したいです。&lt;/div&gt;&lt;div&gt;&lt;br&gt;処理を作るときは②の方が若干有利か…&lt;br&gt;&lt;br&gt;ただし、以前の会議では金型受付テーブルと、&lt;br&gt;金型完了テーブルを分けるという考え方だった（①の考え方に近いです）&lt;br&gt;&lt;br&gt;悩んでいます。&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="350" width="540" x="7830" y="2940" as="geometry" />
+        <mxCell id="PviwDKVIkk7DQfP7kidW-412" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;rounded=0;" value="＜悩んだこと＞ 251121 高桑&lt;br&gt;&lt;br&gt;&lt;div&gt;上郷DMSも衣浦DMSも、&lt;br&gt;金型の受付/完了 履歴テーブルは単独で存在している。&lt;br&gt;しかし、入子組合わせ履歴は受付も完了も一つのテーブルに集約されている。&lt;br&gt;&lt;br&gt;このような形だと、ER図が書けない。&lt;br&gt;リレーションをつなげられなかった。&lt;br&gt;&lt;br&gt;①その為、この形になりました。&lt;br&gt;&lt;br&gt;もう一つ、別の案はあります。&lt;br&gt;入子組合わせ履歴テーブルを、従来DMSのように受付/完了とも、一つに集約したい時は&lt;br&gt;②金型の受付/履歴も一つのテーブルに集約するという方法&lt;br&gt;&lt;br&gt;①か②、どちらがいいか会議で会話したいです。&lt;/div&gt;&lt;div&gt;&lt;br&gt;処理を作るときは②の方が若干有利か…&lt;br&gt;&lt;br&gt;ただし、以前の会議では金型受付テーブルと、&lt;br&gt;金型完了テーブルを分けるという考え方だった（①の考え方に近いです）&lt;br&gt;&lt;br&gt;悩んでいます。&lt;br&gt;&lt;br&gt;&lt;br&gt;追記 251124&lt;br&gt;&lt;br&gt;もう一度考えてみると、やっぱりこの形の方がいいかも。&lt;br&gt;UNIONで受付と完了をビューで縦につなげれば処理的には、複雑にならない。&lt;br&gt;受付と完了はこのER図のように別で分けた方が冗長な列（無駄な列）がなくてスッキリする。&lt;br&gt;今までのDMSのテーブル構造とは違う形になるので、この点は説明したい。&lt;br&gt;（繰り返しですが、今の上郷DMS,衣浦DMSは入子組み合わせは&lt;br&gt;受付時に記録する情報、完了時に記録する情報、どちらも一つのテーブルに集約されている）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="500" width="540" x="7870" y="2810" as="geometry" />
         </mxCell>
         <mxCell id="K2yUA2d8jw9vR51y45SV-13" edge="1" parent="1" source="PviwDKVIkk7DQfP7kidW-8" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERone;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="K2yUA2d8jw9vR51y45SV-14" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
@@ -18159,7 +18159,7 @@
             <mxRectangle height="30" width="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K2yUA2d8jw9vR51y45SV-112" parent="K2yUA2d8jw9vR51y45SV-108" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="INT" vertex="1">
+        <mxCell id="K2yUA2d8jw9vR51y45SV-112" parent="K2yUA2d8jw9vR51y45SV-108" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="NVARCHAR(20)" vertex="1">
           <mxGeometry height="30" width="110" x="310" as="geometry">
             <mxRectangle height="30" width="110" as="alternateBounds" />
           </mxGeometry>
