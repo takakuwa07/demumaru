@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="29.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="29.1.1">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="8764" dy="8493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="7000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="7562" dy="7896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="7000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17461,7 +17461,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PviwDKVIkk7DQfP7kidW-226" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" value="    t_maintenance_part_reception_log 整備部品受付履歴" vertex="1">
-          <mxGeometry height="250" width="660" x="7010" y="3490" as="geometry">
+          <mxGeometry height="280" width="660" x="7010" y="3490" as="geometry">
             <mxRectangle height="30" width="130" x="-260" y="-170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -17534,7 +17534,7 @@
             <mxRectangle height="30" width="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PviwDKVIkk7DQfP7kidW-242" parent="PviwDKVIkk7DQfP7kidW-239" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="整備部品番号ID" vertex="1">
+        <mxCell id="PviwDKVIkk7DQfP7kidW-242" parent="PviwDKVIkk7DQfP7kidW-239" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="部品番号ID" vertex="1">
           <mxGeometry height="30" width="170" x="260" as="geometry">
             <mxRectangle height="30" width="170" as="alternateBounds" />
           </mxGeometry>
@@ -17585,12 +17585,12 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PviwDKVIkk7DQfP7kidW-259" parent="PviwDKVIkk7DQfP7kidW-257" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="maintenance_part_interval_shot_count" vertex="1">
+        <mxCell id="PviwDKVIkk7DQfP7kidW-259" parent="PviwDKVIkk7DQfP7kidW-257" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="累計" vertex="1">
           <mxGeometry height="30" width="230" x="30" as="geometry">
             <mxRectangle height="30" width="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PviwDKVIkk7DQfP7kidW-260" parent="PviwDKVIkk7DQfP7kidW-257" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="整備部品区間ショット数" vertex="1">
+        <mxCell id="PviwDKVIkk7DQfP7kidW-260" parent="PviwDKVIkk7DQfP7kidW-257" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="部品累計ショット数" vertex="1">
           <mxGeometry height="30" width="170" x="260" as="geometry">
             <mxRectangle height="30" width="170" as="alternateBounds" />
           </mxGeometry>
@@ -17605,8 +17605,36 @@
             <mxRectangle height="30" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PviwDKVIkk7DQfP7kidW-284" parent="PviwDKVIkk7DQfP7kidW-226" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+        <mxCell id="UQgyGitQGe6pIwDCOQvF-10" parent="PviwDKVIkk7DQfP7kidW-226" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
           <mxGeometry height="30" width="660" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UQgyGitQGe6pIwDCOQvF-11" parent="UQgyGitQGe6pIwDCOQvF-10" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" value="" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQgyGitQGe6pIwDCOQvF-12" parent="UQgyGitQGe6pIwDCOQvF-10" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="maintenance_part_interval_shot_count" vertex="1">
+          <mxGeometry height="30" width="230" x="30" as="geometry">
+            <mxRectangle height="30" width="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQgyGitQGe6pIwDCOQvF-13" parent="UQgyGitQGe6pIwDCOQvF-10" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="部品区間ショット数" vertex="1">
+          <mxGeometry height="30" width="170" x="260" as="geometry">
+            <mxRectangle height="30" width="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQgyGitQGe6pIwDCOQvF-14" parent="UQgyGitQGe6pIwDCOQvF-10" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="INT" vertex="1">
+          <mxGeometry height="30" width="110" x="430" as="geometry">
+            <mxRectangle height="30" width="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQgyGitQGe6pIwDCOQvF-15" parent="UQgyGitQGe6pIwDCOQvF-10" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="" vertex="1">
+          <mxGeometry height="30" width="120" x="540" as="geometry">
+            <mxRectangle height="30" width="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PviwDKVIkk7DQfP7kidW-284" parent="PviwDKVIkk7DQfP7kidW-226" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="30" width="660" y="210" as="geometry" />
         </mxCell>
         <mxCell id="PviwDKVIkk7DQfP7kidW-285" parent="PviwDKVIkk7DQfP7kidW-284" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" value="" vertex="1">
           <mxGeometry height="30" width="30" as="geometry">
@@ -17618,7 +17646,7 @@
             <mxRectangle height="30" width="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PviwDKVIkk7DQfP7kidW-287" parent="PviwDKVIkk7DQfP7kidW-284" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="整備部品基準ショット数" vertex="1">
+        <mxCell id="PviwDKVIkk7DQfP7kidW-287" parent="PviwDKVIkk7DQfP7kidW-284" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="部品基準ショット数" vertex="1">
           <mxGeometry height="30" width="170" x="260" as="geometry">
             <mxRectangle height="30" width="170" as="alternateBounds" />
           </mxGeometry>
@@ -17628,13 +17656,13 @@
             <mxRectangle height="30" width="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PviwDKVIkk7DQfP7kidW-289" parent="PviwDKVIkk7DQfP7kidW-284" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="" vertex="1">
+        <mxCell id="PviwDKVIkk7DQfP7kidW-289" parent="PviwDKVIkk7DQfP7kidW-284" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#e3c800;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=#B09500;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" value="NULL許容" vertex="1">
           <mxGeometry height="30" width="120" x="540" as="geometry">
             <mxRectangle height="30" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PviwDKVIkk7DQfP7kidW-275" parent="PviwDKVIkk7DQfP7kidW-226" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1">
-          <mxGeometry height="30" width="660" y="210" as="geometry" />
+          <mxGeometry height="30" width="660" y="240" as="geometry" />
         </mxCell>
         <mxCell id="PviwDKVIkk7DQfP7kidW-276" parent="PviwDKVIkk7DQfP7kidW-275" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1">
           <mxGeometry height="30" width="30" as="geometry">
@@ -18338,6 +18366,18 @@
         </mxCell>
         <mxCell id="K2yUA2d8jw9vR51y45SV-125" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;rounded=0;" value="251124 高桑&lt;br&gt;&lt;br&gt;けっこう前の会議で、修理ランクは工場ごとで呼び方違うという話があった。&lt;br&gt;違うが、&lt;br&gt;『情報としてまとめる必要』がある、と思っています。&lt;br&gt;そのために作ったのが&amp;nbsp;&amp;nbsp;m_repair_rank&amp;nbsp;&lt;br&gt;グローバルで共通な修理ランク を意味しています。&lt;br&gt;&lt;br&gt;でも画面表示は工場ごとで違っていいと思っています。&lt;br&gt;その為に&lt;br&gt;m_repair_rank_alias を用意した。&lt;br&gt;&lt;br&gt;二つテーブルが必要という意味です。&lt;br&gt;&lt;br&gt;例えば、『情報としてまとめる必要』という事に必要性感じない時は&lt;br&gt;一つのテーブルにすることもできます" vertex="1">
           <mxGeometry height="280" width="540" x="7190" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="UQgyGitQGe6pIwDCOQvF-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2509003113230上郷BC端末名" vertex="1">
+          <mxGeometry height="30" width="180" x="6700" y="3290" as="geometry" />
+        </mxCell>
+        <mxCell id="UQgyGitQGe6pIwDCOQvF-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="衣浦1" vertex="1">
+          <mxGeometry height="30" width="80" x="6750" y="3340" as="geometry" />
+        </mxCell>
+        <mxCell id="UQgyGitQGe6pIwDCOQvF-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="管理番号" vertex="1">
+          <mxGeometry height="30" width="80" x="6740" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="UQgyGitQGe6pIwDCOQvF-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="全て数値型はNULL許容やめる" vertex="1">
+          <mxGeometry height="30" width="180" x="7680" y="3700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
