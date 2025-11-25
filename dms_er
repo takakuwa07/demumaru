@@ -16216,7 +16216,7 @@
             <mxPoint x="3650" y="3590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fW_YLdsfNFWNvFGIvAqR-228" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="m_part_category 整備部品区分マスタ" vertex="1">
+        <mxCell id="fW_YLdsfNFWNvFGIvAqR-228" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="m_part_category 部品区分マスタ" vertex="1">
           <mxGeometry height="190" width="540" x="4390" y="4340" as="geometry">
             <mxRectangle height="30" width="310" x="4070" y="3980" as="alternateBounds" />
           </mxGeometry>
