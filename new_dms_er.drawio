@@ -3227,12 +3227,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-796" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" value="t_consumable_part_latest_status 部品最新状況" vertex="1">
-          <mxGeometry height="290" width="830" x="4530" y="1630" as="geometry">
+          <mxGeometry height="320" width="960" x="4530" y="1630" as="geometry">
             <mxRectangle height="30" width="130" x="-260" y="-170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-797" parent="vsHdCap5O2gr3nNfuyQF-796" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
-          <mxGeometry height="30" width="830" y="30" as="geometry" />
+          <mxGeometry height="30" width="960" y="30" as="geometry" />
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-798" parent="vsHdCap5O2gr3nNfuyQF-797" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" value="PK" vertex="1">
           <mxGeometry height="30" width="110" as="geometry">
@@ -3240,27 +3240,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-799" parent="vsHdCap5O2gr3nNfuyQF-797" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" value="part_number_id" vertex="1">
-          <mxGeometry height="30" width="210" x="110" as="geometry">
-            <mxRectangle height="30" width="210" as="alternateBounds" />
+          <mxGeometry height="30" width="249.9999999999991" x="110" as="geometry">
+            <mxRectangle height="30" width="249.9999999999991" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-800" parent="vsHdCap5O2gr3nNfuyQF-797" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" value="部品番号ID" vertex="1">
-          <mxGeometry height="30" width="160" x="320" as="geometry">
-            <mxRectangle height="30" width="160" as="alternateBounds" />
+          <mxGeometry height="30" width="190.0000000000009" x="359.9999999999991" as="geometry">
+            <mxRectangle height="30" width="190.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-801" parent="vsHdCap5O2gr3nNfuyQF-797" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" value="INT" vertex="1">
-          <mxGeometry height="30" width="100" x="480" as="geometry">
-            <mxRectangle height="30" width="100" as="alternateBounds" />
+          <mxGeometry height="30" width="109.99999999999909" x="550" as="geometry">
+            <mxRectangle height="30" width="109.99999999999909" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-802" parent="vsHdCap5O2gr3nNfuyQF-797" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" vertex="1">
-          <mxGeometry height="30" width="250" x="580" as="geometry">
-            <mxRectangle height="30" width="250" as="alternateBounds" />
+          <mxGeometry height="30" width="300.0000000000009" x="659.9999999999991" as="geometry">
+            <mxRectangle height="30" width="300.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-803" parent="vsHdCap5O2gr3nNfuyQF-796" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1">
-          <mxGeometry height="30" width="830" y="60" as="geometry" />
+          <mxGeometry height="30" width="960" y="60" as="geometry" />
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-804" parent="vsHdCap5O2gr3nNfuyQF-803" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" value="FK" vertex="1">
           <mxGeometry height="30" width="110" as="geometry">
@@ -3268,27 +3268,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-805" parent="vsHdCap5O2gr3nNfuyQF-803" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="part_number_id" vertex="1">
-          <mxGeometry height="30" width="210" x="110" as="geometry">
-            <mxRectangle height="30" width="210" as="alternateBounds" />
+          <mxGeometry height="30" width="249.9999999999991" x="110" as="geometry">
+            <mxRectangle height="30" width="249.9999999999991" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-806" parent="vsHdCap5O2gr3nNfuyQF-803" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="部品番号ID" vertex="1">
-          <mxGeometry height="30" width="160" x="320" as="geometry">
-            <mxRectangle height="30" width="160" as="alternateBounds" />
+          <mxGeometry height="30" width="190.0000000000009" x="359.9999999999991" as="geometry">
+            <mxRectangle height="30" width="190.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-807" parent="vsHdCap5O2gr3nNfuyQF-803" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="INT" vertex="1">
-          <mxGeometry height="30" width="100" x="480" as="geometry">
-            <mxRectangle height="30" width="100" as="alternateBounds" />
+          <mxGeometry height="30" width="109.99999999999909" x="550" as="geometry">
+            <mxRectangle height="30" width="109.99999999999909" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-808" parent="vsHdCap5O2gr3nNfuyQF-803" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1">
-          <mxGeometry height="30" width="250" x="580" as="geometry">
-            <mxRectangle height="30" width="250" as="alternateBounds" />
+          <mxGeometry height="30" width="300.0000000000009" x="659.9999999999991" as="geometry">
+            <mxRectangle height="30" width="300.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-809" parent="vsHdCap5O2gr3nNfuyQF-796" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1">
-          <mxGeometry height="30" width="830" y="90" as="geometry" />
+          <mxGeometry height="30" width="960" y="90" as="geometry" />
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-810" parent="vsHdCap5O2gr3nNfuyQF-809" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" value="FK" vertex="1">
           <mxGeometry height="30" width="110" as="geometry">
@@ -3296,27 +3296,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-811" parent="vsHdCap5O2gr3nNfuyQF-809" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="consumable_part_id" vertex="1">
-          <mxGeometry height="30" width="210" x="110" as="geometry">
-            <mxRectangle height="30" width="210" as="alternateBounds" />
+          <mxGeometry height="30" width="249.9999999999991" x="110" as="geometry">
+            <mxRectangle height="30" width="249.9999999999991" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-812" parent="vsHdCap5O2gr3nNfuyQF-809" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品ID" vertex="1">
-          <mxGeometry height="30" width="160" x="320" as="geometry">
-            <mxRectangle height="30" width="160" as="alternateBounds" />
+          <mxGeometry height="30" width="190.0000000000009" x="359.9999999999991" as="geometry">
+            <mxRectangle height="30" width="190.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-813" parent="vsHdCap5O2gr3nNfuyQF-809" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="INT" vertex="1">
-          <mxGeometry height="30" width="100" x="480" as="geometry">
-            <mxRectangle height="30" width="100" as="alternateBounds" />
+          <mxGeometry height="30" width="109.99999999999909" x="550" as="geometry">
+            <mxRectangle height="30" width="109.99999999999909" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-814" parent="vsHdCap5O2gr3nNfuyQF-809" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="" vertex="1">
-          <mxGeometry height="30" width="250" x="580" as="geometry">
-            <mxRectangle height="30" width="250" as="alternateBounds" />
+          <mxGeometry height="30" width="300.0000000000009" x="659.9999999999991" as="geometry">
+            <mxRectangle height="30" width="300.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-815" parent="vsHdCap5O2gr3nNfuyQF-796" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
-          <mxGeometry height="30" width="830" y="120" as="geometry" />
+          <mxGeometry height="30" width="960" y="120" as="geometry" />
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-816" parent="vsHdCap5O2gr3nNfuyQF-815" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" value="" vertex="1">
           <mxGeometry height="30" width="110" as="geometry">
@@ -3324,27 +3324,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-817" parent="vsHdCap5O2gr3nNfuyQF-815" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="consumable_part_total_shot_count" vertex="1">
-          <mxGeometry height="30" width="210" x="110" as="geometry">
-            <mxRectangle height="30" width="210" as="alternateBounds" />
+          <mxGeometry height="30" width="249.9999999999991" x="110" as="geometry">
+            <mxRectangle height="30" width="249.9999999999991" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-818" parent="vsHdCap5O2gr3nNfuyQF-815" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品累計ショット数" vertex="1">
-          <mxGeometry height="30" width="160" x="320" as="geometry">
-            <mxRectangle height="30" width="160" as="alternateBounds" />
+          <mxGeometry height="30" width="190.0000000000009" x="359.9999999999991" as="geometry">
+            <mxRectangle height="30" width="190.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-819" parent="vsHdCap5O2gr3nNfuyQF-815" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="INT" vertex="1">
-          <mxGeometry height="30" width="100" x="480" as="geometry">
-            <mxRectangle height="30" width="100" as="alternateBounds" />
+          <mxGeometry height="30" width="109.99999999999909" x="550" as="geometry">
+            <mxRectangle height="30" width="109.99999999999909" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-820" parent="vsHdCap5O2gr3nNfuyQF-815" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="" vertex="1">
-          <mxGeometry height="30" width="250" x="580" as="geometry">
-            <mxRectangle height="30" width="250" as="alternateBounds" />
+          <mxGeometry height="30" width="300.0000000000009" x="659.9999999999991" as="geometry">
+            <mxRectangle height="30" width="300.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-821" parent="vsHdCap5O2gr3nNfuyQF-796" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
-          <mxGeometry height="40" width="830" y="150" as="geometry" />
+          <mxGeometry height="40" width="960" y="150" as="geometry" />
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-822" parent="vsHdCap5O2gr3nNfuyQF-821" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" value="" vertex="1">
           <mxGeometry height="40" width="110" as="geometry">
@@ -3352,27 +3352,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-823" parent="vsHdCap5O2gr3nNfuyQF-821" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="replacement_date" vertex="1">
-          <mxGeometry height="40" width="210" x="110" as="geometry">
-            <mxRectangle height="40" width="210" as="alternateBounds" />
+          <mxGeometry height="40" width="249.9999999999991" x="110" as="geometry">
+            <mxRectangle height="40" width="249.9999999999991" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-824" parent="vsHdCap5O2gr3nNfuyQF-821" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="取替日" vertex="1">
-          <mxGeometry height="40" width="160" x="320" as="geometry">
-            <mxRectangle height="40" width="160" as="alternateBounds" />
+          <mxGeometry height="40" width="190.0000000000009" x="359.9999999999991" as="geometry">
+            <mxRectangle height="40" width="190.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-825" parent="vsHdCap5O2gr3nNfuyQF-821" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="DATATIME" vertex="1">
-          <mxGeometry height="40" width="100" x="480" as="geometry">
-            <mxRectangle height="40" width="100" as="alternateBounds" />
+          <mxGeometry height="40" width="109.99999999999909" x="550" as="geometry">
+            <mxRectangle height="40" width="109.99999999999909" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-826" parent="vsHdCap5O2gr3nNfuyQF-821" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="" vertex="1">
-          <mxGeometry height="40" width="250" x="580" as="geometry">
-            <mxRectangle height="40" width="250" as="alternateBounds" />
+          <mxGeometry height="40" width="300.0000000000009" x="659.9999999999991" as="geometry">
+            <mxRectangle height="40" width="300.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-827" parent="vsHdCap5O2gr3nNfuyQF-796" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
-          <mxGeometry height="30" width="830" y="190" as="geometry" />
+          <mxGeometry height="30" width="960" y="190" as="geometry" />
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-828" parent="vsHdCap5O2gr3nNfuyQF-827" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" value="" vertex="1">
           <mxGeometry height="30" width="110" as="geometry">
@@ -3380,27 +3380,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-829" parent="vsHdCap5O2gr3nNfuyQF-827" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="consumable_part_production_type" vertex="1">
-          <mxGeometry height="30" width="210" x="110" as="geometry">
-            <mxRectangle height="30" width="210" as="alternateBounds" />
+          <mxGeometry height="30" width="249.9999999999991" x="110" as="geometry">
+            <mxRectangle height="30" width="249.9999999999991" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-830" parent="vsHdCap5O2gr3nNfuyQF-827" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品生産タイプ" vertex="1">
-          <mxGeometry height="30" width="160" x="320" as="geometry">
-            <mxRectangle height="30" width="160" as="alternateBounds" />
+          <mxGeometry height="30" width="190.0000000000009" x="359.9999999999991" as="geometry">
+            <mxRectangle height="30" width="190.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-831" parent="vsHdCap5O2gr3nNfuyQF-827" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="NVARCHAR(20)" vertex="1">
-          <mxGeometry height="30" width="100" x="480" as="geometry">
-            <mxRectangle height="30" width="100" as="alternateBounds" />
+          <mxGeometry height="30" width="109.99999999999909" x="550" as="geometry">
+            <mxRectangle height="30" width="109.99999999999909" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-832" parent="vsHdCap5O2gr3nNfuyQF-827" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="トライ or 号口" vertex="1">
-          <mxGeometry height="30" width="250" x="580" as="geometry">
-            <mxRectangle height="30" width="250" as="alternateBounds" />
+          <mxGeometry height="30" width="300.0000000000009" x="659.9999999999991" as="geometry">
+            <mxRectangle height="30" width="300.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-833" parent="vsHdCap5O2gr3nNfuyQF-796" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
-          <mxGeometry height="30" width="830" y="220" as="geometry" />
+          <mxGeometry height="30" width="960" y="220" as="geometry" />
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-834" parent="vsHdCap5O2gr3nNfuyQF-833" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" value="" vertex="1">
           <mxGeometry height="30" width="110" as="geometry">
@@ -3408,27 +3408,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-835" parent="vsHdCap5O2gr3nNfuyQF-833" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="consumable_part_spec" vertex="1">
-          <mxGeometry height="30" width="210" x="110" as="geometry">
-            <mxRectangle height="30" width="210" as="alternateBounds" />
+          <mxGeometry height="30" width="249.9999999999991" x="110" as="geometry">
+            <mxRectangle height="30" width="249.9999999999991" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-836" parent="vsHdCap5O2gr3nNfuyQF-833" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品仕様" vertex="1">
-          <mxGeometry height="30" width="160" x="320" as="geometry">
-            <mxRectangle height="30" width="160" as="alternateBounds" />
+          <mxGeometry height="30" width="190.0000000000009" x="359.9999999999991" as="geometry">
+            <mxRectangle height="30" width="190.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-837" parent="vsHdCap5O2gr3nNfuyQF-833" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="NVARCHAR(20)" vertex="1">
-          <mxGeometry height="30" width="100" x="480" as="geometry">
-            <mxRectangle height="30" width="100" as="alternateBounds" />
+          <mxGeometry height="30" width="109.99999999999909" x="550" as="geometry">
+            <mxRectangle height="30" width="109.99999999999909" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-838" parent="vsHdCap5O2gr3nNfuyQF-833" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="XYZ(トライマスタの固有番号)  or 10 or 20" vertex="1">
-          <mxGeometry height="30" width="250" x="580" as="geometry">
-            <mxRectangle height="30" width="250" as="alternateBounds" />
+          <mxGeometry height="30" width="300.0000000000009" x="659.9999999999991" as="geometry">
+            <mxRectangle height="30" width="300.0000000000009" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcyj5nJgau5-i7tt_5YZ-13" parent="vsHdCap5O2gr3nNfuyQF-796" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="30" width="960" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wcyj5nJgau5-i7tt_5YZ-14" parent="wcyj5nJgau5-i7tt_5YZ-13" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" value="" vertex="1">
+          <mxGeometry height="30" width="110" as="geometry">
+            <mxRectangle height="30" width="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcyj5nJgau5-i7tt_5YZ-15" parent="wcyj5nJgau5-i7tt_5YZ-13" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="consumable_part_trial_lifetime_shot_count" vertex="1">
+          <mxGeometry height="30" width="249.9999999999991" x="110" as="geometry">
+            <mxRectangle height="30" width="249.9999999999991" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcyj5nJgau5-i7tt_5YZ-16" parent="wcyj5nJgau5-i7tt_5YZ-13" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品 トライ寿命ショット数" vertex="1">
+          <mxGeometry height="30" width="190.0000000000009" x="359.9999999999991" as="geometry">
+            <mxRectangle height="30" width="190.0000000000009" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcyj5nJgau5-i7tt_5YZ-17" parent="wcyj5nJgau5-i7tt_5YZ-13" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="NVARCHAR(20)" vertex="1">
+          <mxGeometry height="30" width="109.99999999999909" x="550" as="geometry">
+            <mxRectangle height="30" width="109.99999999999909" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcyj5nJgau5-i7tt_5YZ-18" parent="wcyj5nJgau5-i7tt_5YZ-13" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="" vertex="1">
+          <mxGeometry height="30" width="300.0000000000009" x="659.9999999999991" as="geometry">
+            <mxRectangle height="30" width="300.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-839" parent="vsHdCap5O2gr3nNfuyQF-796" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1">
-          <mxGeometry height="30" width="830" y="250" as="geometry" />
+          <mxGeometry height="30" width="960" y="280" as="geometry" />
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-840" parent="vsHdCap5O2gr3nNfuyQF-839" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1">
           <mxGeometry height="30" width="110" as="geometry">
@@ -3436,23 +3464,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-841" parent="vsHdCap5O2gr3nNfuyQF-839" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="is_deleted" vertex="1">
-          <mxGeometry height="30" width="210" x="110" as="geometry">
-            <mxRectangle height="30" width="210" as="alternateBounds" />
+          <mxGeometry height="30" width="249.9999999999991" x="110" as="geometry">
+            <mxRectangle height="30" width="249.9999999999991" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-842" parent="vsHdCap5O2gr3nNfuyQF-839" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="削除済" vertex="1">
-          <mxGeometry height="30" width="160" x="320" as="geometry">
-            <mxRectangle height="30" width="160" as="alternateBounds" />
+          <mxGeometry height="30" width="190.0000000000009" x="359.9999999999991" as="geometry">
+            <mxRectangle height="30" width="190.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-843" parent="vsHdCap5O2gr3nNfuyQF-839" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="BIT" vertex="1">
-          <mxGeometry height="30" width="100" x="480" as="geometry">
-            <mxRectangle height="30" width="100" as="alternateBounds" />
+          <mxGeometry height="30" width="109.99999999999909" x="550" as="geometry">
+            <mxRectangle height="30" width="109.99999999999909" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-844" parent="vsHdCap5O2gr3nNfuyQF-839" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1">
-          <mxGeometry height="30" width="250" x="580" as="geometry">
-            <mxRectangle height="30" width="250" as="alternateBounds" />
+          <mxGeometry height="30" width="300.0000000000009" x="659.9999999999991" as="geometry">
+            <mxRectangle height="30" width="300.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-845" edge="1" parent="1" source="O4HG72CjVBbsZzbfZXhj-39" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERone;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;startFill=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vsHdCap5O2gr3nNfuyQF-809" value="">
@@ -3783,7 +3811,7 @@
             <mxRectangle height="30" width="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O4HG72CjVBbsZzbfZXhj-72" parent="O4HG72CjVBbsZzbfZXhj-69" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品寿命部品ショット数" vertex="1">
+        <mxCell id="O4HG72CjVBbsZzbfZXhj-72" parent="O4HG72CjVBbsZzbfZXhj-69" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品 寿命ショット数" vertex="1">
           <mxGeometry height="30" width="170" x="250" as="geometry">
             <mxRectangle height="30" width="170" as="alternateBounds" />
           </mxGeometry>
