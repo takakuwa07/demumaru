@@ -3328,7 +3328,7 @@
             <mxRectangle height="30" width="249.9999999999991" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsHdCap5O2gr3nNfuyQF-818" parent="vsHdCap5O2gr3nNfuyQF-815" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品累計ショット数" vertex="1">
+        <mxCell id="vsHdCap5O2gr3nNfuyQF-818" parent="vsHdCap5O2gr3nNfuyQF-815" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品 累計ショット数" vertex="1">
           <mxGeometry height="30" width="190.0000000000009" x="359.9999999999991" as="geometry">
             <mxRectangle height="30" width="190.0000000000009" as="alternateBounds" />
           </mxGeometry>
@@ -3384,7 +3384,7 @@
             <mxRectangle height="30" width="249.9999999999991" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsHdCap5O2gr3nNfuyQF-830" parent="vsHdCap5O2gr3nNfuyQF-827" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品生産タイプ" vertex="1">
+        <mxCell id="vsHdCap5O2gr3nNfuyQF-830" parent="vsHdCap5O2gr3nNfuyQF-827" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品 生産タイプ" vertex="1">
           <mxGeometry height="30" width="190.0000000000009" x="359.9999999999991" as="geometry">
             <mxRectangle height="30" width="190.0000000000009" as="alternateBounds" />
           </mxGeometry>
@@ -3412,7 +3412,7 @@
             <mxRectangle height="30" width="249.9999999999991" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsHdCap5O2gr3nNfuyQF-836" parent="vsHdCap5O2gr3nNfuyQF-833" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品仕様" vertex="1">
+        <mxCell id="vsHdCap5O2gr3nNfuyQF-836" parent="vsHdCap5O2gr3nNfuyQF-833" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品 仕様" vertex="1">
           <mxGeometry height="30" width="190.0000000000009" x="359.9999999999991" as="geometry">
             <mxRectangle height="30" width="190.0000000000009" as="alternateBounds" />
           </mxGeometry>
