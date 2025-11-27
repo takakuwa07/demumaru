@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="29.1.1">
   <diagram name="ページ1" id="WD6cJs_YRkq310EaA_16">
-    <mxGraphModel dx="1773" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8000" pageHeight="2800" math="0" shadow="0">
+    <mxGraphModel dx="859" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8000" pageHeight="2800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -490,7 +490,7 @@
             <mxRectangle height="30" width="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsHdCap5O2gr3nNfuyQF-105" parent="vsHdCap5O2gr3nNfuyQF-102" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" value="金型 整備区分ID" vertex="1">
+        <mxCell id="vsHdCap5O2gr3nNfuyQF-105" parent="vsHdCap5O2gr3nNfuyQF-102" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" value="金型整備区分ID" vertex="1">
           <mxGeometry height="30" width="100" x="220" as="geometry">
             <mxRectangle height="30" width="100" as="alternateBounds" />
           </mxGeometry>
@@ -631,13 +631,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-135" parent="vsHdCap5O2gr3nNfuyQF-133" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" value="die_maintenance_cycle_id" vertex="1">
-          <mxGeometry height="30" width="170" x="30" as="geometry">
-            <mxRectangle height="30" width="170" as="alternateBounds" />
+          <mxGeometry height="30" width="180" x="30" as="geometry">
+            <mxRectangle height="30" width="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsHdCap5O2gr3nNfuyQF-136" parent="vsHdCap5O2gr3nNfuyQF-133" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" value="金型 整備サイクルID" vertex="1">
-          <mxGeometry height="30" width="130" x="200" as="geometry">
-            <mxRectangle height="30" width="130" as="alternateBounds" />
+        <mxCell id="vsHdCap5O2gr3nNfuyQF-136" parent="vsHdCap5O2gr3nNfuyQF-133" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" value="金型整備サイクルID" vertex="1">
+          <mxGeometry height="30" width="120" x="210" as="geometry">
+            <mxRectangle height="30" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-137" parent="vsHdCap5O2gr3nNfuyQF-133" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" value="INT" vertex="1">
@@ -658,14 +658,14 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsHdCap5O2gr3nNfuyQF-141" parent="vsHdCap5O2gr3nNfuyQF-139" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="maintenance_category_id" vertex="1">
-          <mxGeometry height="30" width="170" x="30" as="geometry">
-            <mxRectangle height="30" width="170" as="alternateBounds" />
+        <mxCell id="vsHdCap5O2gr3nNfuyQF-141" parent="vsHdCap5O2gr3nNfuyQF-139" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="die_maintenance_category_id" vertex="1">
+          <mxGeometry height="30" width="180" x="30" as="geometry">
+            <mxRectangle height="30" width="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsHdCap5O2gr3nNfuyQF-142" parent="vsHdCap5O2gr3nNfuyQF-139" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="整備区分ID" vertex="1">
-          <mxGeometry height="30" width="130" x="200" as="geometry">
-            <mxRectangle height="30" width="130" as="alternateBounds" />
+        <mxCell id="vsHdCap5O2gr3nNfuyQF-142" parent="vsHdCap5O2gr3nNfuyQF-139" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="金型整備区分ID" vertex="1">
+          <mxGeometry height="30" width="120" x="210" as="geometry">
+            <mxRectangle height="30" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-143" parent="vsHdCap5O2gr3nNfuyQF-139" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="INT" vertex="1">
@@ -687,13 +687,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-147" parent="vsHdCap5O2gr3nNfuyQF-145" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="die_maintenance_interval" vertex="1">
-          <mxGeometry height="30" width="170" x="30" as="geometry">
-            <mxRectangle height="30" width="170" as="alternateBounds" />
+          <mxGeometry height="30" width="180" x="30" as="geometry">
+            <mxRectangle height="30" width="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-148" parent="vsHdCap5O2gr3nNfuyQF-145" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="金型 整備区間" vertex="1">
-          <mxGeometry height="30" width="130" x="200" as="geometry">
-            <mxRectangle height="30" width="130" as="alternateBounds" />
+          <mxGeometry height="30" width="120" x="210" as="geometry">
+            <mxRectangle height="30" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-149" parent="vsHdCap5O2gr3nNfuyQF-145" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="INT" vertex="1">
@@ -715,13 +715,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-153" parent="vsHdCap5O2gr3nNfuyQF-151" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="is_deleted" vertex="1">
-          <mxGeometry height="30" width="170" x="30" as="geometry">
-            <mxRectangle height="30" width="170" as="alternateBounds" />
+          <mxGeometry height="30" width="180" x="30" as="geometry">
+            <mxRectangle height="30" width="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-154" parent="vsHdCap5O2gr3nNfuyQF-151" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="削除済" vertex="1">
-          <mxGeometry height="30" width="130" x="200" as="geometry">
-            <mxRectangle height="30" width="130" as="alternateBounds" />
+          <mxGeometry height="30" width="120" x="210" as="geometry">
+            <mxRectangle height="30" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-155" parent="vsHdCap5O2gr3nNfuyQF-151" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="BIT" vertex="1">
@@ -1407,7 +1407,7 @@
             <mxRectangle height="30" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsHdCap5O2gr3nNfuyQF-327" parent="vsHdCap5O2gr3nNfuyQF-324" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" value="金型 定量サイクルID" vertex="1">
+        <mxCell id="vsHdCap5O2gr3nNfuyQF-327" parent="vsHdCap5O2gr3nNfuyQF-324" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" value="金型定量サイクルID" vertex="1">
           <mxGeometry height="30" width="130" x="190" as="geometry">
             <mxRectangle height="30" width="130" as="alternateBounds" />
           </mxGeometry>
@@ -1435,7 +1435,7 @@
             <mxRectangle height="30" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsHdCap5O2gr3nNfuyQF-333" parent="vsHdCap5O2gr3nNfuyQF-330" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="金型 整備サイクルID" vertex="1">
+        <mxCell id="vsHdCap5O2gr3nNfuyQF-333" parent="vsHdCap5O2gr3nNfuyQF-330" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="金型整備サイクルID" vertex="1">
           <mxGeometry height="30" width="130" x="190" as="geometry">
             <mxRectangle height="30" width="130" as="alternateBounds" />
           </mxGeometry>
@@ -2339,7 +2339,7 @@
             <mxRectangle height="30" width="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsHdCap5O2gr3nNfuyQF-526" parent="vsHdCap5O2gr3nNfuyQF-523" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="部品 番号ID" vertex="1">
+        <mxCell id="vsHdCap5O2gr3nNfuyQF-526" parent="vsHdCap5O2gr3nNfuyQF-523" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="部品番号ID" vertex="1">
           <mxGeometry height="30" width="170" x="260" as="geometry">
             <mxRectangle height="30" width="170" as="alternateBounds" />
           </mxGeometry>
