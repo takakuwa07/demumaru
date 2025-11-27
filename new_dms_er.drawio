@@ -2509,12 +2509,6 @@
         <mxCell id="vsHdCap5O2gr3nNfuyQF-605" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;rounded=0;" value="251124 高桑&lt;br&gt;&lt;br&gt;けっこう前の会議で、修理ランクは工場ごとで呼び方違うという話があった。&lt;br&gt;違うが、&lt;br&gt;『情報としてまとめる必要』がある、と思っています。&lt;br&gt;そのために作ったのが&amp;nbsp;&amp;nbsp;m_repair_rank&amp;nbsp;&lt;br&gt;グローバルで共通な修理ランク を意味しています。&lt;br&gt;&lt;br&gt;でも画面表示は工場ごとで違っていいと思っています。&lt;br&gt;その為に&lt;br&gt;m_repair_rank_alias を用意した。&lt;br&gt;&lt;br&gt;二つテーブルが必要という意味です。&lt;br&gt;&lt;br&gt;例えば、『情報としてまとめる必要』という事に必要性感じない時は&lt;br&gt;一つのテーブルにすることもできます" vertex="1">
           <mxGeometry height="280" width="540" x="5560" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="vsHdCap5O2gr3nNfuyQF-606" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2509003113230上郷BC端末名" vertex="1">
-          <mxGeometry height="30" width="180" x="5070" y="990" as="geometry" />
-        </mxCell>
-        <mxCell id="vsHdCap5O2gr3nNfuyQF-607" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="衣浦1" vertex="1">
-          <mxGeometry height="30" width="80" x="5120" y="1040" as="geometry" />
-        </mxCell>
         <mxCell id="vsHdCap5O2gr3nNfuyQF-609" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="全て数値型はNULL許容やめる" vertex="1">
           <mxGeometry height="30" width="180" x="6050" y="1400" as="geometry" />
         </mxCell>
