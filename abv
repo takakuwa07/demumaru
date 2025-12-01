@@ -2816,7 +2816,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFjRCvwPuGncY8r6uVHf-618" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="m_consumable_part 消耗部品マスタ" vertex="1">
-          <mxGeometry height="250" width="640.0000000000009" x="3110" y="-766" as="geometry">
+          <mxGeometry height="250" width="640.0000000000009" x="3110" y="-840" as="geometry">
             <mxRectangle height="30" width="130" x="-260" y="-170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
