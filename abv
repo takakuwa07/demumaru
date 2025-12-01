@@ -584,7 +584,7 @@
             <mxRectangle height="30" width="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;251128 作成&lt;br&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="TFjRCvwPuGncY8r6uVHf-151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;251128 作成&lt;br&gt;251201 合意&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="220" x="330" y="-2500" as="geometry" />
         </mxCell>
         <mxCell id="TFjRCvwPuGncY8r6uVHf-153" edge="1" parent="1" source="TFjRCvwPuGncY8r6uVHf-15" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERone;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="TFjRCvwPuGncY8r6uVHf-102" value="">
@@ -1304,7 +1304,7 @@
             <mxRectangle height="30" width="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-294" parent="TFjRCvwPuGncY8r6uVHf-291" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="金型整備サイクルID" vertex="1">
+        <mxCell id="TFjRCvwPuGncY8r6uVHf-294" parent="TFjRCvwPuGncY8r6uVHf-291" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="金型整備区分ID" vertex="1">
           <mxGeometry height="30" width="130" x="220" as="geometry">
             <mxRectangle height="30" width="130" as="alternateBounds" />
           </mxGeometry>
@@ -2922,7 +2922,7 @@
             <mxRectangle height="30" width="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-641" parent="TFjRCvwPuGncY8r6uVHf-637" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="NVARCHAR(20)" vertex="1">
+        <mxCell id="TFjRCvwPuGncY8r6uVHf-641" parent="TFjRCvwPuGncY8r6uVHf-637" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="INT" vertex="1">
           <mxGeometry height="30" width="110" x="420" as="geometry">
             <mxRectangle height="30" width="110" as="alternateBounds" />
           </mxGeometry>
