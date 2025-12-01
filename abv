@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="29.2.1">
   <diagram name="ページ1" id="sofcwVGsJq1Zionumi1Y">
-    <mxGraphModel dx="2363" dy="4060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6800" pageHeight="2800" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="3556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6800" pageHeight="2800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2816,7 +2816,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFjRCvwPuGncY8r6uVHf-618" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="m_consumable_part 消耗部品マスタ" vertex="1">
-          <mxGeometry height="220" width="640.0000000000009" x="3160" y="-840" as="geometry">
+          <mxGeometry height="250" width="640.0000000000009" x="3110" y="-766" as="geometry">
             <mxRectangle height="30" width="130" x="-260" y="-170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2932,8 +2932,36 @@
             <mxRectangle height="30" width="110.00000000000091" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-643" parent="TFjRCvwPuGncY8r6uVHf-618" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;perimeterSpacing=0;" vertex="1">
+        <mxCell id="L0E4WRrO1PZU_khskPnW-2" parent="TFjRCvwPuGncY8r6uVHf-618" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;perimeterSpacing=0;" vertex="1">
           <mxGeometry height="30" width="640.0000000000009" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="L0E4WRrO1PZU_khskPnW-3" parent="L0E4WRrO1PZU_khskPnW-2" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0E4WRrO1PZU_khskPnW-4" parent="L0E4WRrO1PZU_khskPnW-2" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="consumable_part_count " vertex="1">
+          <mxGeometry height="30" width="220" x="30" as="geometry">
+            <mxRectangle height="30" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0E4WRrO1PZU_khskPnW-5" parent="L0E4WRrO1PZU_khskPnW-2" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="消耗部品 個数" vertex="1">
+          <mxGeometry height="30" width="170" x="250" as="geometry">
+            <mxRectangle height="30" width="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0E4WRrO1PZU_khskPnW-6" parent="L0E4WRrO1PZU_khskPnW-2" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="INT" vertex="1">
+          <mxGeometry height="30" width="110" x="420" as="geometry">
+            <mxRectangle height="30" width="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0E4WRrO1PZU_khskPnW-7" parent="L0E4WRrO1PZU_khskPnW-2" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=#6c8ebf;" value="要相談の列" vertex="1">
+          <mxGeometry height="30" width="110.00000000000091" x="530" as="geometry">
+            <mxRectangle height="30" width="110.00000000000091" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFjRCvwPuGncY8r6uVHf-643" parent="TFjRCvwPuGncY8r6uVHf-618" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;perimeterSpacing=0;" vertex="1">
+          <mxGeometry height="30" width="640.0000000000009" y="180" as="geometry" />
         </mxCell>
         <mxCell id="TFjRCvwPuGncY8r6uVHf-644" parent="TFjRCvwPuGncY8r6uVHf-643" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1">
           <mxGeometry height="30" width="30" as="geometry">
@@ -2961,7 +2989,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFjRCvwPuGncY8r6uVHf-649" parent="TFjRCvwPuGncY8r6uVHf-618" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;perimeterSpacing=0;" vertex="1">
-          <mxGeometry height="30" width="640.0000000000009" y="180" as="geometry" />
+          <mxGeometry height="30" width="640.0000000000009" y="210" as="geometry" />
         </mxCell>
         <mxCell id="TFjRCvwPuGncY8r6uVHf-650" parent="TFjRCvwPuGncY8r6uVHf-649" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1">
           <mxGeometry height="30" width="30" as="geometry">
