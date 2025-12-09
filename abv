@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.6">
   <diagram name="ページ1" id="sofcwVGsJq1Zionumi1Y">
-    <mxGraphModel dx="2182" dy="3963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6800" pageHeight="2800" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="3745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6800" pageHeight="2800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2504,7 +2504,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFjRCvwPuGncY8r6uVHf-549" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" value="t_consumable_part_status 消耗部品状況" vertex="1">
-          <mxGeometry height="340" width="970" x="4080" y="-840" as="geometry">
+          <mxGeometry height="310" width="970" x="4080" y="-840" as="geometry">
             <mxRectangle height="30" width="130" x="-260" y="-170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2760,34 +2760,6 @@
             <mxRectangle height="30" width="310.0000000000009" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-604" parent="TFjRCvwPuGncY8r6uVHf-549" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1">
-          <mxGeometry height="30" width="970" y="300" as="geometry" />
-        </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-605" parent="TFjRCvwPuGncY8r6uVHf-604" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1">
-          <mxGeometry height="30" width="80" as="geometry">
-            <mxRectangle height="30" width="80" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-606" parent="TFjRCvwPuGncY8r6uVHf-604" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="is_deleted" vertex="1">
-          <mxGeometry height="30" width="250" x="80" as="geometry">
-            <mxRectangle height="30" width="250" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-607" parent="TFjRCvwPuGncY8r6uVHf-604" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="削除済" vertex="1">
-          <mxGeometry height="30" width="190" x="330" as="geometry">
-            <mxRectangle height="30" width="190" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-608" parent="TFjRCvwPuGncY8r6uVHf-604" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="BIT" vertex="1">
-          <mxGeometry height="30" width="139.9999999999991" x="520" as="geometry">
-            <mxRectangle height="30" width="139.9999999999991" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-609" parent="TFjRCvwPuGncY8r6uVHf-604" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1">
-          <mxGeometry height="30" width="310.0000000000009" x="659.9999999999991" as="geometry">
-            <mxRectangle height="30" width="310.0000000000009" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TFjRCvwPuGncY8r6uVHf-610" edge="1" parent="1" source="TFjRCvwPuGncY8r6uVHf-619" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERone;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;startFill=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TFjRCvwPuGncY8r6uVHf-562" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <Array as="points">
@@ -2816,7 +2788,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFjRCvwPuGncY8r6uVHf-618" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="m_consumable_part 消耗部品マスタ" vertex="1">
-          <mxGeometry height="280" width="680" x="3240" y="-840" as="geometry">
+          <mxGeometry height="250" width="680" x="3240" y="-840" as="geometry">
             <mxRectangle height="30" width="130" x="-260" y="-170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3012,34 +2984,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFjRCvwPuGncY8r6uVHf-648" parent="TFjRCvwPuGncY8r6uVHf-643" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1">
-          <mxGeometry height="30" width="120" x="560" as="geometry">
-            <mxRectangle height="30" width="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-649" parent="TFjRCvwPuGncY8r6uVHf-618" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;perimeterSpacing=0;" vertex="1">
-          <mxGeometry height="30" width="680" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-650" parent="TFjRCvwPuGncY8r6uVHf-649" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1">
-          <mxGeometry height="30" width="60" as="geometry">
-            <mxRectangle height="30" width="60" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-651" parent="TFjRCvwPuGncY8r6uVHf-649" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="is_deleted" vertex="1">
-          <mxGeometry height="30" width="230" x="60" as="geometry">
-            <mxRectangle height="30" width="230" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-652" parent="TFjRCvwPuGncY8r6uVHf-649" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="削除済" vertex="1">
-          <mxGeometry height="30" width="160" x="290" as="geometry">
-            <mxRectangle height="30" width="160" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-653" parent="TFjRCvwPuGncY8r6uVHf-649" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" value="BIT" vertex="1">
-          <mxGeometry height="30" width="110" x="450" as="geometry">
-            <mxRectangle height="30" width="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TFjRCvwPuGncY8r6uVHf-654" parent="TFjRCvwPuGncY8r6uVHf-649" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1">
           <mxGeometry height="30" width="120" x="560" as="geometry">
             <mxRectangle height="30" width="120" as="alternateBounds" />
           </mxGeometry>
